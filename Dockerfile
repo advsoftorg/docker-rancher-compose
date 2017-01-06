@@ -1,7 +1,7 @@
 # Set base image.
 FROM alpine:latest
 
-MAINTAINER Dominik Hahn <dominik@monostream.com>
+MAINTAINER Jan Romaniak <romaniakjan@gmail.com>
 
 # Define rancher-compose version
 ENV RANCHER_COMPOSE_VERSION=v0.12.1
